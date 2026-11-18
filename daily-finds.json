@@ -1,0 +1,15 @@
+{
+  "dateLabel": "18 November 2026",
+  "finds": [
+    {"id": "df-1", "name": "SanDisk Extreme Portable SSD 1TB", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/01-sandisk-ssd.jpg", "link": "https://www.amazon.com/dp/B08GTYFC37?tag=amirali98460b-20"},
+    {"id": "df-2", "name": "ecobee Smart Thermostat Premium", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/02-ecobee-thermostat.jpg", "link": "https://www.amazon.com/dp/B09XXS48P8?tag=amirali98460b-20"},
+    {"id": "df-3", "name": "Anker MagGo Power Bank 10,000mAh", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/03-anker-maggo.jpg", "link": "https://www.amazon.com/dp/B0CFDRKVZ4?tag=amirali98460b-20"},
+    {"id": "df-4", "name": "Govee Glide Hexa Pro LED Wall Panels", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/04-govee-hexa.jpg", "link": "https://www.amazon.com/dp/B09WDL8L16?tag=amirali98460b-20"},
+    {"id": "df-5", "name": "Scrub Daddy Colors 3-Pack + Daddy Caddy", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/05-scrub-daddy.jpg", "link": "https://www.amazon.com/dp/B0D5RQFFQT?tag=amirali98460b-20"},
+    {"id": "df-6", "name": "CeraVe Foaming Facial Cleanser 8 oz", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/06-cerave-foaming.jpg", "link": "https://www.amazon.com/dp/B0F4L3BHFC?tag=amirali98460b-20"},
+    {"id": "df-7", "name": "Tide Odor Defense + Oxi Laundry Pods 63 Count", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/07-tide-pods.jpg", "link": "https://www.amazon.com/dp/B0B1VVM7WF?tag=amirali98460b-20"},
+    {"id": "df-8", "name": "LANEIGE Midnight Minis", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/08-laneige-minis.jpg", "link": "https://www.amazon.com/dp/B0F24ZZN95?tag=amirali98460b-20"},
+    {"id": "df-9", "name": "DREO 6L Smart Humidifier HM713S", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/09-dreo-humidifier.jpg", "link": "https://www.amazon.com/dp/B0CB4CK3ZS?tag=amirali98460b-20"},
+    {"id": "df-10", "name": "30 Pack Kawaii Squishy Toys", "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/10-squishy-toys.jpg", "link": "https://www.amazon.com/dp/B0DG2VRFV7?tag=amirali98460b-20"}
+  ]
+}
