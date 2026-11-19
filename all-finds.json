@@ -1,6 +1,82 @@
 {
   "days": [
     {
+      "date": "2026-11-19",
+      "dateLabel": "19 November 2026",
+      "finds": [
+        {
+          "id": "df-20261119-01",
+          "name": "COSRX Snail Mucin 96% Power Repairing Essence",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/01-cosrx-snail-mucin.jpg",
+          "link": "https://www.amazon.com/dp/B00PBX3L7K?tag=amirali98460b-20",
+          "category": "Beauty"
+        },
+        {
+          "id": "df-20261119-02",
+          "name": "Naturium Vitamin C Complex Serum",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/02-naturium-vitamin-c-serum.jpg",
+          "link": "https://www.amazon.com/dp/B07Y469VXX?tag=amirali98460b-20",
+          "category": "Beauty"
+        },
+        {
+          "id": "df-20261119-03",
+          "name": "Tower 28 SOS Daily Rescue Facial Spray",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/03-tower28-sos-facial-spray.jpg",
+          "link": "https://www.amazon.com/dp/B0B3S7HJ9L?tag=amirali98460b-20",
+          "category": "Beauty"
+        },
+        {
+          "id": "df-20261119-04",
+          "name": "Crock-Pot 7-Quart Oval Manual Slow Cooker",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/04-crockpot-slow-cooker.jpg",
+          "link": "https://www.amazon.com/dp/B003OAJGJO?tag=amirali98460b-20",
+          "category": "Home & Kitchen"
+        },
+        {
+          "id": "df-20261119-05",
+          "name": "Etekcity Food Kitchen Scale",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/05-etekcity-kitchen-scale.jpg",
+          "link": "https://www.amazon.com/dp/B0113UZJE2?tag=amirali98460b-20",
+          "category": "Home & Kitchen"
+        },
+        {
+          "id": "df-20261119-06",
+          "name": "Clean Skin Club Clean Towels XL",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/06-clean-skin-club-towels.jpg",
+          "link": "https://www.amazon.com/dp/B07PBXXNCY?tag=amirali98460b-20",
+          "category": "Beauty"
+        },
+        {
+          "id": "df-20261119-07",
+          "name": "Squishmallows Slimygloop Gelli Gels",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/07-slimygloop-gelli-gels.jpg",
+          "link": "https://www.amazon.com/dp/B0G36Z353F?tag=amirali98460b-20",
+          "category": "Toys & Kids"
+        },
+        {
+          "id": "df-20261119-08",
+          "name": "amFilm OneTouch Screen Protector for iPhone 17 Pro Max",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/08-amfilm-screen-protector.jpg",
+          "link": "https://www.amazon.com/dp/B0FG7DXTVH?tag=amirali98460b-20",
+          "category": "Tech"
+        },
+        {
+          "id": "df-20261119-09",
+          "name": "PRETTYGARDEN Women's Casual Summer Midi Dress",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/09-prettygarden-midi-dress.jpg",
+          "link": "https://www.amazon.com/dp/B0BM3SXTPC?tag=amirali98460b-20",
+          "category": "Fashion"
+        },
+        {
+          "id": "df-20261119-10",
+          "name": "Vanicream Daily Facial Moisturizer",
+          "image": "https://raw.githubusercontent.com/amirali3350557-svg/easyshop-daily-finds/main/images/2026-11-19/10-vanicream-moisturizer.jpg",
+          "link": "https://www.amazon.com/dp/B08BW46XXK?tag=amirali98460b-20",
+          "category": "Beauty"
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "dateLabel": "18 November 2026",
       "finds": [
